@@ -139,3 +139,4 @@ Conclusion
 
 This project demonstrates the application of data analytics techniques to pharmaceutical distribution and sales data. By integrating data preprocessing, exploratory analysis, statistical hypothesis testing, visualization, correlation, and regression, the project transforms raw data into actionable business insights. It highlights the importance of analytical decision-making in revenue optimization, marketing evaluation, distribution management, and sales performance monitoring.
 MS EXCEL PROJECT 
+https://drive.google.com/drive/folders/15dP4xDou5n7MiFnDsa_dUSRcZgUB1GsR
